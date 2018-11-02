@@ -1,0 +1,8 @@
+package: github.com/stakater/RequirementsUpdater
+import:
+- package: github.com/sirupsen/logrus
+  version: v1.0.5
+- package: github.com/onrik/logrus
+  subpackages:
+  - filename
+- package: github.com/alexflint/go-arg
