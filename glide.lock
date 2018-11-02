@@ -1,8 +1,10 @@
 hash: 10b64176cd42ff7397357df9abfbae1df43f483cafdcd6d94631f385141c9b95
-updated: 2018-11-02T13:13:24.056937153+05:00
+updated: 2018-11-02T20:34:40.958076055+05:00
 imports:
 - name: github.com/alexflint/go-arg
   version: f7c0423bd11ee80ab81d25c6d46f492998af8547
+- name: github.com/alexflint/go-scalar
+  version: 45e5d6cd8605faef82fda2bacc59e734a0b6f1f0
 - name: github.com/onrik/logrus
   version: c9849815bc7c2abf20d58e4bc06c242198ebb741
   subpackages:
@@ -14,10 +16,10 @@ imports:
   subpackages:
   - ssh/terminal
 - name: golang.org/x/sys
-  version: 95c6576299259db960f6c5b9b69ea52422860fce
+  version: 7ddbeae9ae08c6a06a59597f0c9edbc5ff2444ce
   subpackages:
   - unix
   - windows
 - name: gopkg.in/yaml.v2
-  version: 53feefa2559fb8dfa8d81baad31be332c97d6c77
+  version: 5420a8b6744d3b0345ab293f6fcba19c978f1183
 testImports: []
