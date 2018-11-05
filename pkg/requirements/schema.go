@@ -5,7 +5,7 @@ import (
 
 	"gopkg.in/yaml.v2"
 
-	"github.com/stakater/RequirementsUpdater/pkg/log"
+	"github.com/stakater/HelmRequirementsBuilder/pkg/log"
 )
 
 var (

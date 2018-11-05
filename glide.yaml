@@ -1,4 +1,4 @@
-package: github.com/stakater/RequirementsUpdater
+package: github.com/stakater/HelmRequirementsBuilder
 import:
 - package: github.com/sirupsen/logrus
   version: v1.0.5
